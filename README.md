@@ -3,4 +3,4 @@
 
 ### 프론트엔드
 * VSCode
-* React-native 0.69.9
+* <code>React-native 0.69.9</code>
